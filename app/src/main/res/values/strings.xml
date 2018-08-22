@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WorkOutApp</string>
+    <string name="add_exercise">Add</string>
+    <string name="exercise_list">My exercises</string>
+    <string name="cardio">Cardio</string>
+    <string name="strength">Strength</string>
+    <string name="new_exercise">New exercise</string>
+    <string name="saving_success">Exercise added</string>
+    <string name="required_fields_error">Fill all required fields!</string>
+    <string name="exercise_already_exists">This exercise already exists!</string>
+    <string name="type_in_value">Enter record</string>
+    <string name="add_new_record">Add record</string>
+    <string name="no_records">0</string>
+    <string name="add_result">New record</string>
+    <string name="add_new_record_popup_title">Add new record</string>
+</resources>

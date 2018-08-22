@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363636</color>
+    <color name="colorPrimaryDark">#2b2b2b</color>
+    <color name="colorAccent">#1e1e1e</color> <!-- A400 teal -->
+    <color name="colorPositive">#00E676</color>
+    <color name="colorNeutral">#FF9100</color>
+    <color name="colorNegative">#F50057</color>
+    <color name="colorBackground">#E0E0E0</color>
+    <color name="colorTextPrimary">#292929</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkOutApp</string>
+    <string name="add_exercise">Добавить</string>
+    <string name="exercise_list">Мои упражнения</string>
+    <string name="cardio">Кардио</string>
+    <string name="strength">Силовое</string>
+    <string name="new_exercise">Новое упражнение</string>
+    <string name="saving_success">Упражнение сохранено</string>
+    <string name="required_fields_error">Заполните все необходимые поля!</string>
+    <string name="exercise_already_exists">Это упражнение уже существует</string>
+    <string name="type_in_value">Введите результат</string>
+    <string name="add_new_record">Добавить результат</string>
+    <string name="no_records">0</string>
+    <string name="add_result">Новый результат</string>
+    <string name="add_new_record_popup_title">Новый результат</string>
+</resources>
